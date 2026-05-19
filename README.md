@@ -23,8 +23,8 @@ The dataset contains passenger information such as:
 7. Embarked
    
 Target Variable: Survived
-1 → Passenger Survived
-0 → Passenger Did Not Survive
+1 → Passenger will  Survive
+0 → Passenger will Not Survive
 
 ## Technologies Used
 1. Python
