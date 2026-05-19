@@ -39,6 +39,7 @@ Target Variable: Survived
 ## Machine Learning Algorithm
 Logistic Regression
 Logistic Regression is used as the primary classification algorithm to predict passenger survival probability.
+![ml](https://github.com/rushikeshwalode06-cod/Titanic-Survival-prediction/blob/main/Titanic%20Survival%20Graph.png?raw=true)
 
 ## Project Workflow
 1. Import Dataset
