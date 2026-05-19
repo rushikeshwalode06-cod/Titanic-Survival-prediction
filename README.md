@@ -14,8 +14,8 @@ itanic Survival Prediction is a Machine Learning project that predicts whether a
 
 ## Dataset
 The dataset contains passenger information such as:
-1. Passenger Class (Pclass)
-2. Gender (Sex)
+1. Pclass
+2. Sex
 3. Age
 4. SibSp
 5. Parch
