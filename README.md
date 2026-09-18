@@ -4,7 +4,7 @@ Developed a Machine Learning model for Titanic Survival Prediction using Logisti
 # 🚢 Titanic Survival Prediction 
 
 ## 📋 Overview
-itanic Survival Prediction is a Machine Learning project that predicts whether a passenger survived the Titanic disaster based on passenger details such as age, gender, ticket class, fare, and more.This project uses the Logistic Regression algorithm for binary classification and includes complete data preprocessing, model training, and prediction steps.
+Titanic Survival Prediction is a Machine Learning project that predicts whether a passenger survived the Titanic disaster based on passenger details such as age, gender, ticket class, fare, and more.This project uses the Logistic Regression algorithm for binary classification and includes complete data preprocessing, model training, and prediction steps.
 
 ![ml](https://github.com/rushikeshwalode06-cod/Titanic-Survival-prediction/blob/main/Titanic%20Survival.png?raw=true)
 
