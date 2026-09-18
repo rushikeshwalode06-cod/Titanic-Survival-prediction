@@ -67,3 +67,4 @@ The model was trained and evaluated using Logistic Regression to achieve accurat
 This project demonstrates the complete Machine Learning workflow, including data preprocessing, model building, and prediction using Logistic Regression. It provides practical experience in solving real-world binary classification problems.
 This project uses data preprocessing, categorical encoding, and Logistic Regression to predict Titanic passenger survival. The model is evaluated using a confusion matrix and classification report, and a prediction function is provided for new passenger data.
 
+![ml](https://github.com/rushikeshwalode06-cod/Titanic-Survival-prediction/blob/main/Titanic_image.png?raw=true)
