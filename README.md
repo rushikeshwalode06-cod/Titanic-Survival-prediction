@@ -43,14 +43,14 @@ Logistic Regression is used as the primary classification algorithm to predict p
 ![ml](https://github.com/rushikeshwalode06-cod/Titanic-Survival-prediction/blob/main/Titanic%20Survival%20Graph.png?raw=true)
 
 ## ⚙️ Project Workflow
-1. Import Dataset
-2. Data Cleaning
-3. Handle Missing Values
-4. Encode Categorical Features
-5. Train-Test Split
-6. Model Training
-7. Prediction
-8. Model Evaluation
+* 📥 Import Dataset
+* 🧹 Data Cleaning
+* ❓ Handle Missing Values
+* 🏷️ Encode Categorical Features
+* ✂️ Train-Test Split
+* 🤖 Model Training
+* 🔮 Prediction
+* 📊 Model Evaluation
 
 ## 🎯 Model Accuracy
 
